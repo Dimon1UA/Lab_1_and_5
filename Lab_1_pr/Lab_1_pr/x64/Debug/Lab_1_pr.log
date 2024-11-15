@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  Lab_1_pr.cpp
+C:\Users\User\source\repos\Lab_1_pr\Lab_1_pr\Lab_1_pr.cpp(20,1): fatal  error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
